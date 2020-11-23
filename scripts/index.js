@@ -15,7 +15,7 @@
 var canvas = document.getElementById("canvas1"),
     ctx1 = canvas.getContext("2d"),
     keyword1 = "把这些字擦掉",
-    keyword2 = "帮我助力吧！，谢谢你",
+    keyword2 = "帮我助力吧!，谢谢",
     imageData,
     density =1,
     mouse = {},
